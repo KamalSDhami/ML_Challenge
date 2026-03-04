@@ -1,0 +1,88 @@
+Terms & Conditions
+Please review the official rules and guidelines for alrIEEEna'26 participation.
+
+Eligibility
+The competition is open to undergraduate students from recognized colleges/institutes.
+Participants may register individually or as a team of maximum 2 members.
+Each participant may register only once. Multiple registrations may lead to disqualification.
+Registration
+Registration must be completed using the official registration form/website only.
+The Team Leader’s email ID will be treated as the primary communication channel.
+All announcements, instructions, and result notifications will be sent only via this email.
+Providing incorrect or fake details may result in immediate disqualification.
+Competition Structure
+Round 1: Online Machine Learning challenge.
+Round 2 (Final Round): Offline/Final evaluation for shortlisted teams.
+Only shortlisted teams from Round 1 will be eligible for Round 2.
+Registration Fee: Shortlisted teams must pay a fee of ₹200 to participate in the offline showdown.
+The organizing committee reserves the right to modify the problem statement, dataset, evaluation metric, or timeline if required.
+
+Submission Rules
+Participants must ensure:
+
+Submissions are their original work.
+Public GitHub repositories, Kaggle notebooks, or pre-existing solutions must NOT be copied.
+Pre-trained models are allowed only if explicitly permitted in the problem statement.
+Sharing solutions, datasets, or answers with other participants is strictly prohibited.
+Late submissions will not be accepted under any circumstances.
+
+Plagiarism Policy
+The following will be treated as malpractice:
+
+Copying code from another participant/team.
+Using solutions available online without proper implementation.
+Submitting identical or highly similar notebooks.
+Collaboration between teams during the competition.
+Submissions will be checked using plagiarism detection and manual review.
+
+⚠️ If plagiarism is detected:
+Immediate disqualification.
+Ban from future IEEE-SB GEHU events.
+The decision of the organizing committee will be final and binding.
+
+Evaluation
+Submissions will be evaluated based on the official metric mentioned in the problem statement.
+The leaderboard score may not be the final deciding factor.
+Code quality, reproducibility, and explanation may also be considered.
+In case of a tie, additional evaluation criteria or interview may be conducted.
+The organizers’ decision will be final and cannot be challenged.
+
+Use of Resources
+Allowed
+Use personal laptops
+Use Python libraries and frameworks
+Refer to documentation
+NOT Allowed
+Seek real-time external help
+Crowdsource solutions
+Use AI tools to auto-generate complete solutions
+Internet & Technical Issues
+Participants are responsible for their own internet connectivity and system setup.
+No re-attempts or time extensions will be granted due to:
+Internet failure
+Power failure
+System crash
+Software installation issues
+Code & Intellectual Property
+Participants retain ownership of their code.
+However, by participating, they grant IEEE Student Branch GEHU permission to:
+Review
+Evaluate
+Showcase winning solutions for academic and promotional purposes.
+Disqualification
+The organizers may disqualify any participant/team for:
+
+Violation of rules
+Misconduct
+Unfair practices
+Misbehavior with organizers or volunteers
+Prizes & Certificates
+Certificates will be issued only to eligible participants who follow all rules.
+Prizes are non-transferable and non-negotiable.
+Organizers reserve the right to withhold prizes in case of rule violations.
+Organizer Rights
+The organizing committee reserves the right to:
+
+Modify schedule
+Update rules
+Cancel or postpone the event if required due to unforeseen circumstances.
